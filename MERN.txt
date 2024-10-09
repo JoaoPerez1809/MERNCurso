@@ -1,0 +1,23 @@
+Facilitar VScode
+F2 Renomeia
+Shift+DELETE apaga linha com o mouse piscando
+CTRL+B
+CTRL+"
+CTRL+ ; comenta
+p>lorem texto
+VSCODE->file->preferences->settings->buscar explorer->desativar compact folders
+Extension-> Material Icon Theme
+
+Comandos rodar
+node -v
+
+npm -v
+
+npm create vite@latest frontend -- --template react
+
+npm install
+
+npm run dev
+
+Se quiser
+npm install react-router-dom
