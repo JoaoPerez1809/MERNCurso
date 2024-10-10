@@ -3,6 +3,7 @@ F2 Renomeia
 Shift+DELETE apaga linha com o mouse piscando
 CTRL+B
 CTRL+"
+CTRL+D
 CTRL+ ; comenta
 p>lorem texto
 VSCODE->file->preferences->settings->buscar explorer->desativar compact folders
