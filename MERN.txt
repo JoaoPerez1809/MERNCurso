@@ -8,6 +8,9 @@ p>lorem texto
 VSCODE->file->preferences->settings->buscar explorer->desativar compact folders
 Extension-> Material Icon Theme
 
+// senha usuario: LqzTwhqfzlS99slJ
+// mongodb+srv://joaovitorps1809:LqzTwhqfzlS99slJ@cursomern.pzh4n.mongodb.net/?retryWrites=true&w=majority&appName=CursoMERN
+
 Comandos rodar
 node -v
 
